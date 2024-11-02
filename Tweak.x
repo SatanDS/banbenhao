@@ -1,3 +1,4 @@
+#include "RootHide/roothide.h"
 #include "Tweak.h"
 #import <mach-o/nlist.h>
 
