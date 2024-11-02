@@ -1,3 +1,5 @@
+THEOS_INCLUDE_PATH += $(THEOS_PROJECT_DIR)/RootHide
+
 INSTALL_TARGET_PROCESSES = SpringBoard
 TARGET := iphone:clang:14.5:14.5
 
